@@ -1,0 +1,5 @@
+com/example/BD/BdApplication.class
+com/example/BD/CursoRepository.class
+com/example/BD/Curso.class
+com/example/BD/Controller.class
+com/example/BD/ApiController.class
